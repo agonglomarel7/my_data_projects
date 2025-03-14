@@ -1,4 +1,4 @@
-# Projet 3 : Analyse des facteurs influençant les performances commerciales
+# Projet 1 : Analyse des facteurs influençant les performances commerciales
 
 ## Objectif
 Le but de ce projet est d'analyser les interactions entre les différents produits, les performances régionales et les marges afin d'optimiser la stratégie commerciale d'une entreprise. Nous allons identifier les facteurs clés qui influencent les ventes et les profits pour proposer des recommandations stratégiques.
